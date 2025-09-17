@@ -1,0 +1,27 @@
+# Plugin directories
+plugin/
+plugins/
+
+# macOS
+.DS_Store
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Swap files
+*.swp
+*.swo
+
+# Session files
+Session.vim
+
+# Local plugin overrides (if you want machine-specific settings)
+local.lua
+
+# Neovim runtime files
+.netrwhist
+
+# Compiled Lua
+*.luac
